@@ -30,4 +30,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cuong07&show_icons=true&theme=radical" alt="My stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuong07&layout=compact&show_icons=true&theme=radical" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cuong07&show_icons=true&theme=radical" alt="Most Used Languages">
 </p>
