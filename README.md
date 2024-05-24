@@ -37,28 +37,6 @@
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-## 🎬 &nbsp;My Last Youtube Videos
-
-<!-- YT LIST START -->
-
-[<img src="https://i.ytimg.com/vi/JUF7M8hRbiM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDBGWBzC3yidy6TCzMlDxTYZbyAeA" align="left" width="200" />](https://www.youtube.com/watch?v=JUF7M8hRbiM)
-&nbsp;&nbsp;
-**[▶️ Como CRIAR UM PROJETO C# no Visual Studio Code | C# DO JEITO MODERNO!](https://www.youtube.com/watch?v=JUF7M8hRbiM)**
-<br /> &nbsp;&nbsp;&nbsp;1 semana atrás
-<img align="center" width="100%" height="0" />
-
-[<img src="https://i.ytimg.com/vi/jcPpJ2tRe2g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBZYoL0nZTTGUkXeXXN3uBtYy0Xdw" align="left" width="200" />](https://www.youtube.com/watch?v=jcPpJ2tRe2g)
-&nbsp;&nbsp;
-**[▶️ COMO INSTALAR O DOTNET | C# DO JEITO MODERNO! ](https://www.youtube.com/watch?v=jcPpJ2tRe2g)**
-<br /> &nbsp;&nbsp;&nbsp;2 Semanas atrás
-<img align="center" width="100%" height="0" />
-
-<!-- YT LIST END -->
-
-learn dotnet c#? check out my channel [Veja meu Canal do Youtube.](https://www.youtube.com/@dotnetsenseidev)
-
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
-
 ## 📌 &nbsp;Pinned Repositories
 
 <table>
