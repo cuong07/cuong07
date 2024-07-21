@@ -24,7 +24,7 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,ts,nodejs,react,nextjs,tailwind,git,github&theme=dark](https://skillicons.dev/icons?i=vscode,html,css,js,ts,nodejs,react,nextjs,tailwind,git,github,java,linux,redux,scss,bitbucket&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,nodejs,react,nextjs,tailwind,git,github,java,linux,redux,scss,bitbucket&theme=dark" />
 
 ## About me
 
