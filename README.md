@@ -24,7 +24,7 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,ts,nodejs,react,nextjs,tailwind,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,ts,nodejs,react,nextjs,tailwind,git,github&theme=dark](https://skillicons.dev/icons?i=vscode,html,css,js,ts,nodejs,react,nextjs,tailwind,git,github,java,linux,redux,scss,bitbucket&theme=dark" />
 
 ## About me
 
@@ -38,23 +38,11 @@
 <a href="mailto:front.cuong@gmail.com">
 <img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
 </a>
-<!-- <a href="https://www.linkedin.com/in/felipe-me"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
-<a href="https://www.youtube.com/@dotnetsenseidev"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=6ED2B6&amp;color:FFF" alt="Youtube"></a></p> -->
 </div>
-
-<!--  <details align="left">   -->
-<!--   <summary>Credits</summary>  -->
-<!--   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">cuong07</a> -->
-<!--   <br> -->
-<!--    - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a> -->
-<!--   <br> -->
-<!--   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author) -->
-<!-- </details> -->
 
 <h2 align="center">📈 Quick Stats </h2> 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cuong07&show_icons=true&theme=radical" alt="My stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuong07&layout=compact&show_icons=true&theme=radical" alt="Most Used Languages">
-<!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cuong07&show_icons=true&theme=radical" alt="Most Used Languages"> -->
 </p>
