@@ -1,69 +1,58 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cuong07&label=Profile%20Views&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/cuong07?label=Followers&style=flat-square" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-gray?style=flat-square" alt="Focus" />
+  <h1>👋 Vo Manh Cuong</h1>
+  <p><strong>Frontend Developer</strong></p>
+  <img src="https://komarev.com/ghpvc/?username=cuong07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
 
-## 🧠 Tech Stack
+### About Me
 
-### Frontend
-<div align="center">
-  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-black?style=flat-square&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/SCSS-black?style=flat-square&logo=sass" />
-  <img src="https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux" />
-  <img src="https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular" />
-</div>
+Passionate Frontend Developer specializing in modern web applications. I build responsive, performant interfaces with clean code and attention to detail.
 
-### Backend & Tools
+- 🔭 Currently working with **React** and **Next.js**
+- 🌱 Continuously learning and improving my craft
+- 💡 Interested in UI/UX design and web performance
+- 📫 Reach me at: **front.cuong@gmail.com**
+
+---
+
+### Technical Stack
+```text
+Frontend:    React • Next.js • TypeScript • JavaScript
+Styling:     Tailwind CSS • SCSS • Responsive Design
+State:       Redux • Context API
+Backend:     Node.js • Java
+Tools:       Git • Linux • VS Code • Angular
+```
+
+---
+
+### GitHub Statistics
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=java" />
-  <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux" />
-  <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/VS_Code-black?style=flat-square&logo=visual-studio-code" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cuong07&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuong07&layout=compact&theme=vue&hide_border=true" />
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+### Let's Connect
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cuong07&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuong07&layout=compact&theme=transparent&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cuong07&theme=github-compact&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-  <a href="mailto:front.cuong@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/cuong07"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" /></a>
-  <a href="https://github.com/cuong07"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" /></a>
-  <a href="https://discord.gg/cuong07"><img src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord" /></a>
-</div>
-
----
-
-## 💬 Quote
-
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+  <a href="mailto:front.cuong@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/cuong07">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/cuong07">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <sub>Thanks for visiting — always open for collaboration.</sub><br/>
-  <sub>Made with ❤️ and ☕</sub>
+  <sub>💻 Always open to interesting projects and collaborations</sub>
 </div>
